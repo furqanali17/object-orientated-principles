@@ -1,0 +1,58 @@
+
+------------------------------
+
+   TESTING CLASS MODULE
+
+------------------------------
+
+
+----------- 1. Module instances creation -----------
+
+----------- 2. Module test for getMethods -----------
+
+--- The value of the field 'title' in o1 is = 
+Object Oriented Programming
+
+--- The value of the field 'CRN' in o1 is = 
+15701
+
+--- The value of the field 'isCA' in o1 is = 
+true
+
+--- The value of the field 'title' in o2 is = 
+Linear Data Structures and Algorithms
+
+--- The value of the field 'CRN' in o2 is = 
+10000
+
+--- The value of the field 'isCA' in o2 is = 
+false
+
+----------- 3. Module test for setMethods -----------
+
+--- The value of the field 'title' in o1 is = 
+OO Analysis and Design
+
+--- The value of the field 'CRN' in o1 is = 
+10000
+
+--- The value of the field 'isCA' in o1 is = 
+false
+
+----------- 4. Module test extra methods -----------
+
+--- Testing printModuleInfo
+OO Analysis and Design
+10000
+Exam-based
+Object Oriented Programming
+15701
+Assignment-based
+
+--- Testing sumOfCRNDigits
+14
+1
+
+--- Testing numVowelsOnTitle
+9
+12
