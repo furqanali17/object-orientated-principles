@@ -1,0 +1,5 @@
+2
+10	Purple	Cotton	6	4
+Purchase Receipt ID: 19	17	10	
+18	Blue	Cotton	6	5
+Has not been bought
